@@ -53,7 +53,8 @@ Monitorar dados de engajamento e comportamento do público para:
 
 ## 👩‍💻 Autora:
 
-** Marcela Morais | Analista de Dados | Web Analytics
+**Marcela Morais | Analista de Dados | Web Analytics**
+
 📍 Brasil
 
 🔗 LinkedIn: https://www.linkedin.com/in/marceladasilvademorais/
